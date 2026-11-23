@@ -83,7 +83,7 @@ st.markdown(CSS, unsafe_allow_html=True)
 # ----------------------------------------------------------------------------
 # Constants & reference data
 # ----------------------------------------------------------------------------
-DEFAULT_MODEL = "gemini-3.5-flash-lite"
+DEFAULT_MODEL = "gemini-2.5-flash"
 MAX_IMAGE_SIDE = 1600
 
 SEVERITY_COLOR = {"Low": "green", "Medium": "amber", "High": "orange", "Critical": "dark"}
